@@ -1,5 +1,5 @@
 # Hero
 
 
-[Accept](savior.md)
-[Decline](mercenary.md)
+[Accept](savior.md)  
+[Decline](mercenary.md)  
