@@ -1,3 +1,3 @@
 # Choice?
-[Light Path](hero.md)  
-[Dark Path](demon-king.md)  
+[Light Path](light/hero.md)  
+[Dark Path](dark/demon-king.md)  
