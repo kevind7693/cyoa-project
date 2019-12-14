@@ -4,6 +4,8 @@ You open your eyes to see what’s ahead, but you can only see darkness. You don
 Mysterious voice, “You have 2 choices as you are right now in this state, your next choice decides your fate. The choice is yours.”
   
 With that you see 2 pathways one light, one dark.
+
+---
   
 What's your choice?
 ---  
