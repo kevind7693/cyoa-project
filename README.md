@@ -13,4 +13,4 @@ Click [here](https://docs.google.com/drawings/d/1uw_E1UcTUebU3rIELSnLqgQdv9l_e9P
     * [Link to github profile](https://github.com/kelvinw8872)
 
 ##### CYOA Starting Line:
-Click [here](https://github.com/kevind7693/cyoa-project/blob/master/choice.md) to begin your adventure. Good Luck.
+Click [here](choice.md) to begin your adventure. Good Luck.
