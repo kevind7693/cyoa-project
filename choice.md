@@ -5,7 +5,7 @@ Mysterious voice, “You have 2 choices as you are right now in this state, your
   
 With that you see 2 pathways one light, one dark.
 
-
+![Darkness](images/Darkness.png)
   
 What's your choice?
 ---  
