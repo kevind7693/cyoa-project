@@ -3,7 +3,7 @@ You accepted the offer to join the 4 heavenly kings. With that, your threw away 
 
 Your first task as a heavenly king is to bring an end to the war between humans and demons once and for all.   
 
-![transformation](../images/tranformation.jpg)
+![transformation](../images/transformation.jpg)
 
 [Aftermath](../ending/demon-win.md)
 
