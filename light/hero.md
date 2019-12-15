@@ -5,7 +5,7 @@ Nun, “I see you have woken up sir hero.”
   
 Without a moment's notice, you were told to get dressed and follow her into the throne room. There you met the king of this country or nation or kingdom. You were told about your destiny to fight the demon race and save mankind.
 
-
+![Hero](../images/hero.jpg)
   
 Will you accept your destiny?  
 --- 
