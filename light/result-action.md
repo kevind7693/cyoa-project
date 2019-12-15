@@ -9,4 +9,6 @@ Lucifer, “Don’t think that killing me would save you. My lord will come afte
 
 You have finished the job, but now you only have one choice left. Help the humans win this war. 
 
+![Result](../images/result.jpg)
+
 [Fight for Mankind](hero-war.md)

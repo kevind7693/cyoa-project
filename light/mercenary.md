@@ -14,6 +14,8 @@ Hooded figure, “Oh, you manage to sense my aura that I suppressed. That's the 
 You say, “And you still have a sharp tongue as always. Isn’t that right, 4 heavenly kings number 3 Lucifer?”  
   
 Lucifer, “You far surpassed my expectations hero.”  
+
+![meeting](../images/meeting.jpg)
   
 Do you take my offer? 
 ---
